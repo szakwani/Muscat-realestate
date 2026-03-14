@@ -2,7 +2,7 @@
   {
     "id": "muscat-hills",
     "name": "Muscat Hills",
-    "coordinates": [23.6345, 58.5628],
+    "coordinates": [23.5858, 58.2887],
     "avgSalePricePerSqm": 1450,
     "avgRentMonthly": 850,
     "propertyTypePrices": {
@@ -14,16 +14,16 @@
     "lastUpdated": "2025-01-15",
     "description": "A prestigious hillside community offering panoramic views of Muscat and the Gulf of Oman, popular with expats and affluent locals.",
     "boundary": [
-      [23.6280, 58.5560],
-      [23.6410, 58.5560],
-      [23.6410, 58.5700],
-      [23.6280, 58.5700]
+      [23.5788, 58.2817],
+      [23.5928, 58.2817],
+      [23.5928, 58.2960],
+      [23.5788, 58.2960]
     ]
   },
   {
     "id": "al-mouj",
     "name": "Al Mouj (The Wave)",
-    "coordinates": [23.6275, 58.5005],
+    "coordinates": [23.6275, 58.2691],
     "avgSalePricePerSqm": 1800,
     "avgRentMonthly": 1100,
     "propertyTypePrices": {
@@ -35,10 +35,10 @@
     "lastUpdated": "2025-01-15",
     "description": "Oman's premier integrated tourism complex featuring marina-front living, golf course, restaurants, and international-standard amenities.",
     "boundary": [
-      [23.6220, 58.4930],
-      [23.6330, 58.4930],
-      [23.6330, 58.5080],
-      [23.6220, 58.5080]
+      [23.6210, 58.2620],
+      [23.6340, 58.2620],
+      [23.6340, 58.2770],
+      [23.6210, 58.2770]
     ]
   },
   {
@@ -98,16 +98,16 @@
     "lastUpdated": "2025-01-08",
     "description": "A rapidly developing residential area popular with middle-income families, featuring modern villa compounds and apartment complexes.",
     "boundary": [
-      [23.6020, 58.3640],
-      [23.6190, 58.3640],
-      [23.6190, 58.3800],
-      [23.6020, 58.3800]
+      [23.5970, 58.3640],
+      [23.6100, 58.3640],
+      [23.6100, 58.3800],
+      [23.5970, 58.3800]
     ]
   },
   {
     "id": "muttrah",
     "name": "Muttrah",
-    "coordinates": [23.6197, 58.5635],
+    "coordinates": [23.6167, 58.5667],
     "avgSalePricePerSqm": 750,
     "avgRentMonthly": 350,
     "propertyTypePrices": {
@@ -118,10 +118,10 @@
     "lastUpdated": "2025-01-05",
     "description": "The historic heart of Muscat — home to the iconic Muttrah Souq, corniche promenade, and traditional old-town architecture.",
     "boundary": [
-      [23.6140, 58.5570],
-      [23.6260, 58.5570],
-      [23.6260, 58.5700],
-      [23.6140, 58.5700]
+      [23.6100, 58.5590],
+      [23.6220, 58.5590],
+      [23.6220, 58.5760],
+      [23.6100, 58.5760]
     ]
   },
   {
@@ -230,7 +230,7 @@
   {
     "id": "al-azaiba",
     "name": "Al Azaiba",
-    "coordinates": [23.6220, 58.4478],
+    "coordinates": [23.6155, 58.4468],
     "avgSalePricePerSqm": 1050,
     "avgRentMonthly": 560,
     "propertyTypePrices": {
@@ -242,10 +242,10 @@
     "lastUpdated": "2025-01-11",
     "description": "A sought-after beachfront neighbourhood with private beach access, embassy compounds, and a thriving dining and retail scene.",
     "boundary": [
-      [23.6150, 58.4400],
-      [23.6290, 58.4400],
-      [23.6290, 58.4560],
-      [23.6150, 58.4560]
+      [23.6080, 58.4395],
+      [23.6230, 58.4395],
+      [23.6230, 58.4550],
+      [23.6080, 58.4550]
     ]
   },
   {
@@ -283,10 +283,10 @@
     "lastUpdated": "2025-01-14",
     "description": "Muscat's most exclusive beachfront enclave — pristine white-sand beaches, luxury villas, and the prestigious Al Bustan Palace hotel.",
     "boundary": [
-      [23.6010, 58.3960],
-      [23.6160, 58.3960],
-      [23.6160, 58.4110],
-      [23.6010, 58.4110]
+      [23.5990, 58.3960],
+      [23.6110, 58.3960],
+      [23.6110, 58.4110],
+      [23.5990, 58.4110]
     ]
   }
 ]
