@@ -1,0 +1,292 @@
+[
+  {
+    "id": "muscat-hills",
+    "name": "Muscat Hills",
+    "coordinates": [23.6345, 58.5628],
+    "avgSalePricePerSqm": 1450,
+    "avgRentMonthly": 850,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 1350, "rentMonthly": 750 },
+      "villa": { "salePricePerSqm": 1550, "rentMonthly": 1100 },
+      "townhouse": { "salePricePerSqm": 1450, "rentMonthly": 950 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-15",
+    "description": "A prestigious hillside community offering panoramic views of Muscat and the Gulf of Oman, popular with expats and affluent locals.",
+    "boundary": [
+      [23.6280, 58.5560],
+      [23.6410, 58.5560],
+      [23.6410, 58.5700],
+      [23.6280, 58.5700]
+    ]
+  },
+  {
+    "id": "al-mouj",
+    "name": "Al Mouj (The Wave)",
+    "coordinates": [23.6275, 58.5005],
+    "avgSalePricePerSqm": 1800,
+    "avgRentMonthly": 1100,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 1650, "rentMonthly": 950 },
+      "villa": { "salePricePerSqm": 2100, "rentMonthly": 1600 },
+      "townhouse": { "salePricePerSqm": 1800, "rentMonthly": 1200 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-15",
+    "description": "Oman's premier integrated tourism complex featuring marina-front living, golf course, restaurants, and international-standard amenities.",
+    "boundary": [
+      [23.6220, 58.4930],
+      [23.6330, 58.4930],
+      [23.6330, 58.5080],
+      [23.6220, 58.5080]
+    ]
+  },
+  {
+    "id": "al-qurum",
+    "name": "Al Qurum",
+    "coordinates": [23.5988, 58.4132],
+    "avgSalePricePerSqm": 1200,
+    "avgRentMonthly": 680,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 1050, "rentMonthly": 580 },
+      "villa": { "salePricePerSqm": 1350, "rentMonthly": 850 },
+      "commercial": { "salePricePerSqm": 1500, "rentMonthly": 900 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-10",
+    "description": "An established coastal neighbourhood with beach access, nature reserves, and a blend of residential and commercial developments.",
+    "boundary": [
+      [23.5900, 58.4050],
+      [23.6070, 58.4050],
+      [23.6070, 58.4220],
+      [23.5900, 58.4220]
+    ]
+  },
+  {
+    "id": "al-khuwair",
+    "name": "Al Khuwair",
+    "coordinates": [23.5979, 58.3895],
+    "avgSalePricePerSqm": 980,
+    "avgRentMonthly": 520,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 880, "rentMonthly": 450 },
+      "villa": { "salePricePerSqm": 1100, "rentMonthly": 650 },
+      "commercial": { "salePricePerSqm": 1200, "rentMonthly": 750 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-10",
+    "description": "A central business district hub with government ministries, commercial offices, mid-range apartments, and retail centres.",
+    "boundary": [
+      [23.5900, 58.3800],
+      [23.6050, 58.3800],
+      [23.6050, 58.3990],
+      [23.5900, 58.3990]
+    ]
+  },
+  {
+    "id": "al-ghubrah",
+    "name": "Al Ghubrah",
+    "coordinates": [23.6105, 58.3720],
+    "avgSalePricePerSqm": 860,
+    "avgRentMonthly": 430,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 780, "rentMonthly": 380 },
+      "villa": { "salePricePerSqm": 950, "rentMonthly": 520 },
+      "townhouse": { "salePricePerSqm": 870, "rentMonthly": 450 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-08",
+    "description": "A rapidly developing residential area popular with middle-income families, featuring modern villa compounds and apartment complexes.",
+    "boundary": [
+      [23.6020, 58.3640],
+      [23.6190, 58.3640],
+      [23.6190, 58.3800],
+      [23.6020, 58.3800]
+    ]
+  },
+  {
+    "id": "muttrah",
+    "name": "Muttrah",
+    "coordinates": [23.6197, 58.5635],
+    "avgSalePricePerSqm": 750,
+    "avgRentMonthly": 350,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 680, "rentMonthly": 300 },
+      "commercial": { "salePricePerSqm": 900, "rentMonthly": 480 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-05",
+    "description": "The historic heart of Muscat — home to the iconic Muttrah Souq, corniche promenade, and traditional old-town architecture.",
+    "boundary": [
+      [23.6140, 58.5570],
+      [23.6260, 58.5570],
+      [23.6260, 58.5700],
+      [23.6140, 58.5700]
+    ]
+  },
+  {
+    "id": "ruwi",
+    "name": "Ruwi",
+    "coordinates": [23.6019, 58.5398],
+    "avgSalePricePerSqm": 820,
+    "avgRentMonthly": 390,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 750, "rentMonthly": 340 },
+      "commercial": { "salePricePerSqm": 1050, "rentMonthly": 550 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-05",
+    "description": "Muscat's central business district and commercial core, featuring high-density commercial and residential developments.",
+    "boundary": [
+      [23.5960, 58.5320],
+      [23.6080, 58.5320],
+      [23.6080, 58.5470],
+      [23.5960, 58.5470]
+    ]
+  },
+  {
+    "id": "madinat-qaboos",
+    "name": "Madinat Qaboos",
+    "coordinates": [23.5914, 58.4328],
+    "avgSalePricePerSqm": 1300,
+    "avgRentMonthly": 720,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 1150, "rentMonthly": 630 },
+      "villa": { "salePricePerSqm": 1500, "rentMonthly": 950 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-12",
+    "description": "A prestigious, tree-lined diplomatic quarter with luxurious villas, embassies, and well-maintained green spaces.",
+    "boundary": [
+      [23.5840, 58.4240],
+      [23.5990, 58.4240],
+      [23.5990, 58.4420],
+      [23.5840, 58.4420]
+    ]
+  },
+  {
+    "id": "al-hail",
+    "name": "Al Hail",
+    "coordinates": [23.6458, 58.2435],
+    "avgSalePricePerSqm": 650,
+    "avgRentMonthly": 300,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 580, "rentMonthly": 260 },
+      "villa": { "salePricePerSqm": 720, "rentMonthly": 380 },
+      "land": { "salePricePerSqm": 400, "rentMonthly": 0 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-06",
+    "description": "A fast-growing suburb in the North Al Batinah region, attracting buyers with affordable land and villa plots.",
+    "boundary": [
+      [23.6380, 58.2350],
+      [23.6530, 58.2350],
+      [23.6530, 58.2520],
+      [23.6380, 58.2520]
+    ]
+  },
+  {
+    "id": "bousher",
+    "name": "Bousher",
+    "coordinates": [23.5758, 58.3752],
+    "avgSalePricePerSqm": 890,
+    "avgRentMonthly": 450,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 800, "rentMonthly": 400 },
+      "villa": { "salePricePerSqm": 1000, "rentMonthly": 560 },
+      "townhouse": { "salePricePerSqm": 890, "rentMonthly": 480 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-09",
+    "description": "A modern suburban area adjacent to the Sultan Qaboos Grand Mosque, popular with families seeking spacious villas and a quiet lifestyle.",
+    "boundary": [
+      [23.5680, 58.3660],
+      [23.5840, 58.3660],
+      [23.5840, 58.3840],
+      [23.5680, 58.3840]
+    ]
+  },
+  {
+    "id": "al-seeb",
+    "name": "Al Seeb",
+    "coordinates": [23.6825, 58.1895],
+    "avgSalePricePerSqm": 600,
+    "avgRentMonthly": 270,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 540, "rentMonthly": 230 },
+      "villa": { "salePricePerSqm": 660, "rentMonthly": 340 },
+      "land": { "salePricePerSqm": 350, "rentMonthly": 0 }
+    },
+    "trend": "stable",
+    "lastUpdated": "2025-01-04",
+    "description": "Home to Muscat International Airport, Al Seeb offers affordable residential options with easy access to major transport links.",
+    "boundary": [
+      [23.6740, 58.1800],
+      [23.6910, 58.1800],
+      [23.6910, 58.1990],
+      [23.6740, 58.1990]
+    ]
+  },
+  {
+    "id": "al-azaiba",
+    "name": "Al Azaiba",
+    "coordinates": [23.6220, 58.4478],
+    "avgSalePricePerSqm": 1050,
+    "avgRentMonthly": 560,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 950, "rentMonthly": 490 },
+      "villa": { "salePricePerSqm": 1200, "rentMonthly": 720 },
+      "commercial": { "salePricePerSqm": 1350, "rentMonthly": 820 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-11",
+    "description": "A sought-after beachfront neighbourhood with private beach access, embassy compounds, and a thriving dining and retail scene.",
+    "boundary": [
+      [23.6150, 58.4400],
+      [23.6290, 58.4400],
+      [23.6290, 58.4560],
+      [23.6150, 58.4560]
+    ]
+  },
+  {
+    "id": "al-wadi-al-kabir",
+    "name": "Al Wadi Al Kabir",
+    "coordinates": [23.5781, 58.5122],
+    "avgSalePricePerSqm": 700,
+    "avgRentMonthly": 320,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 640, "rentMonthly": 280 },
+      "commercial": { "salePricePerSqm": 820, "rentMonthly": 420 },
+      "land": { "salePricePerSqm": 420, "rentMonthly": 0 }
+    },
+    "trend": "down",
+    "lastUpdated": "2025-01-03",
+    "description": "An industrial and mixed-use area with commercial warehouses, light industry, and affordable residential units.",
+    "boundary": [
+      [23.5700, 58.5040],
+      [23.5860, 58.5040],
+      [23.5860, 58.5200],
+      [23.5700, 58.5200]
+    ]
+  },
+  {
+    "id": "shatti-al-qurum",
+    "name": "Shatti Al Qurum",
+    "coordinates": [23.6088, 58.4035],
+    "avgSalePricePerSqm": 1650,
+    "avgRentMonthly": 980,
+    "propertyTypePrices": {
+      "apartment": { "salePricePerSqm": 1500, "rentMonthly": 850 },
+      "villa": { "salePricePerSqm": 1900, "rentMonthly": 1400 }
+    },
+    "trend": "up",
+    "lastUpdated": "2025-01-14",
+    "description": "Muscat's most exclusive beachfront enclave — pristine white-sand beaches, luxury villas, and the prestigious Al Bustan Palace hotel.",
+    "boundary": [
+      [23.6010, 58.3960],
+      [23.6160, 58.3960],
+      [23.6160, 58.4110],
+      [23.6010, 58.4110]
+    ]
+  }
+]
