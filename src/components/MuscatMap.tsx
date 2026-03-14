@@ -4,8 +4,8 @@ import 'leaflet/dist/leaflet.css';
 import type { Area, ViewMode } from '../types';
 import { getMarkerColor, getPriceValue, formatOMR, trendLabel } from '../utils/priceUtils';
 
-// Muscat, Oman center coordinates
-const MUSCAT_CENTER: [number, number] = [23.5880, 58.3829];
+// Muscat, Oman center coordinates — centred to show all neighbourhoods
+const MUSCAT_CENTER: [number, number] = [23.6100, 58.3800];
 const DEFAULT_ZOOM = 11;
 
 interface MapRecenterProps {
